@@ -1,0 +1,7 @@
+# api layers
+fastapi
+uvicorn
+
+pyvirtualcam
+opencv-python
+ultralytics
