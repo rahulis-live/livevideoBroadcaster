@@ -85,11 +85,6 @@ http://localhost:8000
 
 ---
 
-## 📸 Screenshots / Demo (Optional)
-
-> Add demo GIF or YouTube link here.
-
----
 
 ## 🤝 Contributing
 
